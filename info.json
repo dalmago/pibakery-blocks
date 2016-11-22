@@ -1,6 +1,6 @@
 {
   "version": 3.3,
-  "compressedMD5": "",
+  "compressedMD5": "eeb383bec88de6120dd38d875d61b4e3",
   "downloadUrl": "https://github.com/dalmago/pibakery-blocks/archive/v0.3.3.zip",
   "loadOrder": [
     "vncenable",
