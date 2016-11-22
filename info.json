@@ -1,7 +1,7 @@
 {
-  "version": 3.2,
-  "compressedMD5": "94741eece6f797ff4bcad849fdcae19e",
-  "downloadUrl": "https://github.com/davidferguson/pibakery-blocks/releases/download/v0.3.2/pibakery-blocks.zip",
+  "version": 3.3,
+  "compressedMD5": "",
+  "downloadUrl": "https://github.com/dalmago/pibakery-blocks/archive/v0.3.3.zip",
   "loadOrder": [
     "vncenable",
     "packageinstall",
@@ -26,6 +26,13 @@
     "runcommand",
     "runpython",
     "deletefile",
+    "memsplit",
+    "retropiesetup",
+    "updateupgrade",
+    "waitfornetwork",
+    "changeSSHport",
+    "pipinstall",
+    "staticIP",
     "reboot",
     "shutdown"
   ]
